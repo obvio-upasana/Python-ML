@@ -5,3 +5,7 @@
 
 <h3>2. Build a brain</h3>
     <h4>A basic intro to a ML model for predictinting the apparel category of the given image of supposed clothing (highly pixelated image). </h4>
+
+<h3> Calcy</h3>
+<img width="1035" height="738" alt="image" src="https://github.com/user-attachments/assets/81ab11e2-1dc6-4764-b2d6-8482e8235d82" />
+
